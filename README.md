@@ -13,10 +13,9 @@ Aplicación web de gestión de tareas (to-do) con sistema de autenticación de u
 - SQlite
 
 ## Instalación local
-​```bash
-git clone https://github.com/ElmerMenjivar1999/django-auth-crud
-cd django-auth-crud
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-​```
+​
+- git clone https://github.com/ElmerMenjivar1999/django-auth-crud
+- cd django-auth-crud
+- pip install -r requirements.txt
+- python manage.py migrate
+- python manage.py runserver
