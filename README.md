@@ -10,7 +10,7 @@ Aplicación web de gestión de tareas (to-do) con sistema de autenticación de u
 ## Tecnologías
 - Python
 - Django
-- PostgreSQL
+- SQlite
 
 ## Instalación local
 ​```bash
